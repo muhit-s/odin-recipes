@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', monospace;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.ingredient {
+    background-color: lightgreen;
+}
+
+.step {
+    background-color: pink;
+}
